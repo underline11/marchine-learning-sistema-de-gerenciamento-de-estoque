@@ -1,0 +1,19 @@
+# Sistema de Gerenciamento de Estoque
+
+## Descrição
+
+Este projeto é um sistema simples de gerenciamento de estoque em Python. Ele permite ao usuário adicionar, atualizar, remover e exibir produtos no estoque de uma loja. O sistema utiliza um dicionário para armazenar os produtos e suas quantidades.
+
+## Funcionalidades
+
+- **Adicionar produto**: Adiciona um novo produto ao estoque com a quantidade especificada.
+- **Atualizar produto**: Atualiza a quantidade de um produto existente.
+- **Remover produto**: Remove um produto do estoque.
+- **Exibir estoque**: Mostra todos os produtos e suas quantidades.
+- **Sair**: Encerra o programa.
+
+## Como Executar
+
+1. Clone o repositório:
+   ```bash
+   git clone <URL_DO_REPOSITORIO>
