@@ -12,8 +12,3 @@ Este projeto é um sistema simples de gerenciamento de estoque em Python. Ele pe
 - **Exibir estoque**: Mostra todos os produtos e suas quantidades.
 - **Sair**: Encerra o programa.
 
-## Como Executar
-
-1. Clone o repositório:
-   ```bash
-   git clone <URL_DO_REPOSITORIO>
